@@ -3,7 +3,7 @@ import java.util.*;
 public class Palindrome {
 
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         long number;
         long swappednumber = 0,even=0;
