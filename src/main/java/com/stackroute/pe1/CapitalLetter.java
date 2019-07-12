@@ -1,4 +1,4 @@
-package com.stackroute.java;
+package com.stackroute.pe1;
 import java.util.*;
 public class CapitalLetter {
     public static void main(String[] args){
